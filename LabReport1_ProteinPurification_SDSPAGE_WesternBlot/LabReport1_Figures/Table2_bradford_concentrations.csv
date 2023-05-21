@@ -1,0 +1,5 @@
+,Stock sample protein concentrations (ug/ul),Initial volume (uL) ,Protein mass (mg),Tissue mass (g),Yield of protein (mg/g),Volume each sample after aliquots removed for Bradford,Remaining protein (mg or ug) based on above volume
+Ler-0 (Day 11),3.92,100,0.392,0.1029,3.81,94,0.37
+Ler-0 (Day 13),3.424,100,0.3424,0.1218,2.81,94,0.32
+agp-31 null (Day 11),3.692,100,0.3692,0.1194,3.09,94,0.35
+agp-31 null (Day 13),3.578,100,0.3578,0.0977,3.66,94,0.34

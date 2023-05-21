@@ -79,7 +79,7 @@ ranges of 2.8-3.8 mg/mL (Table 1).
 
 <br>
 
-![Figure 1. Protein concentrations of WT and *agp31* null mutant seedlings.](./LabReport1_Figures/fig1.png)
+![Figure 1. Protein concentrations of WT and *agp31* null mutant seedlings.](./figures/fig1.png)
 **Figure 1. Protein concentrations of WT and *agp31* null mutant seedlings.** Protein concentrations derived from a Bradford Assay using bovine serum albumin (BSA) as a standard.
 
 <br>
@@ -134,7 +134,7 @@ percentage towards the bottom of the gel.
 
 <br>
 
-![Figure 2. Coomassie stained gels.](./LabReport1_Figures/fig2.jpeg)
+![Figure 2. Coomassie stained gels.](./figures/fig2.jpeg)
 
 **Figure 2. Coomassie stained gels.** Staining occurred immediately after SDS-PAGE without protein transfer for Western Blot (A). Staining occurred after proteins transferred onto membrane for Western Blot (B).
 
@@ -157,14 +157,14 @@ kD (Table 3).
 
 <br>
 
-![Figure 3. Western blot using HSP90 antibodies (A) and CRU3-α antibodies (B).](./LabReport1_Figures/fig3.png)
+![Figure 3. Western blot using HSP90 antibodies (A) and CRU3-α antibodies (B).](./figures/fig3.png)
   
 **Figure 3.** **Western blot using HSP90 antibodies (A) and CRU3-α antibodies (B).** Molecular weight (MW) ladder loaded onto left-most lane. Remaining lanes correspond to experimental seedling samples. Bands marked with asterisks denote the respective antigenic band of interest (i.e., HSP90 (A), CRU3-α (B)).
 
 <br>
 <br>
 
-![Figure 4. Molecular weight standard curves of HSP90 (A) and CRU3-α (B) antigenic bands from Western Blot displayed in Figure 3.](./LabReport1_Figures/fig4.png)
+![Figure 4. Molecular weight standard curves of HSP90 (A) and CRU3-α (B) antigenic bands from Western Blot displayed in Figure 3.](./figures/fig4.png)
 **Figure 4. Molecular weight standard curves of HSP90 (A) and CRU3-α (B) antigenic bands from Western Blot displayed in Figure 3.** 
 
 <br>
@@ -186,7 +186,7 @@ significant difference of CRU3-α signal intensity across wild type and
 show an increase in CRU3-α signal intensity, which is slightly more
 pronounced in *agp31* null mutants.
 
-![Figure 5. CRU3-α signal intensity across genotype (left) and seedling age (right).](./LabReport1_Figures/fig5.png)
+![Figure 5. CRU3-α signal intensity across genotype (left) and seedling age (right).](./figures/fig5.png)
 **Figure 5. CRU3-α signal intensity across genotype (left) and seedling age (right).**                                             
 
 <br>

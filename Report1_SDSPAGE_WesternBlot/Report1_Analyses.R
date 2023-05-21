@@ -5,29 +5,29 @@
 library(tidyverse)
 library(ggpubr)
 
-setwd("./LabReport1_ProteinPurification_SDSPAGE_WesternBlot")
+setwd("./Report1_SDSPAGE_WesternBlot")
 
 # Bradford assay data
 standards = read.csv(
-  './LabReport1_Data/standards_BSA_minus_empty.csv',
+  './data/standards_BSA_minus_empty.csv',
   header = T,
   stringsAsFactors = F
   )
 samples = read.csv(
-  './LabReport1_Data/samples_minus_empty.csv',
+  './data/samples_minus_empty.csv',
   header = T,
   stringsAsFactors = F
   )
 
 # CRU3 Molecular Weights
 MW_STCurves_CRU3 = read.csv(
-  './LabReport1_Data/MW_STCurves_CRU3.csv',
+  './data/MW_STCurves_CRU3.csv',
   stringsAsFactors = F
   )
 
 # HSP90 Molecular Weights
 MW_STCurves_HSP90 = read.csv(
-  './LabReport1_Data/MW_STCurves_HSP90.csv',
+  './data/MW_STCurves_HSP90.csv',
   stringsAsFactors = F
   )
 
@@ -65,7 +65,7 @@ combined = combined %>%
   )
 
 # Export
-write.csv(combined, './LabReport1_Figures/Table2_bradford_concentrations.csv', row.names = F)
+write.csv(combined, './figures/Table2_bradford_concentrations.csv', row.names = F)
 
 
 # CRU3 Molecular Weights
@@ -127,7 +127,7 @@ ggplot() +
     )
 
 # Export
-ggsave('./LabReport1_Figures/fig1.png', units = 'in', width = 7, height = 3.5)
+ggsave('./figures/fig1.png', units = 'in', width = 7, height = 3.5)
 
 
 # 3. Plot CRU3 Molecular Weight Standard Curve ---------------------------------

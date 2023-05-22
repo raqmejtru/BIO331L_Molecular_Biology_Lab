@@ -1,0 +1,9 @@
+"gene","genotype","age","mean_l2fc","SEM_l2fc","n"
+"CRU3","agp31 null","Day 11",0.82,0.56,3
+"CRU3","agp31 null","Day 13",2.39,0.84,4
+"CRU3","WT","Day 11",1,NA,1
+"CRU3","WT","Day 13",1.01,0.14,2
+"OLE1","agp31 null","Day 11",0.52,0.04,2
+"OLE1","agp31 null","Day 13",0.1,0.02,2
+"OLE1","WT","Day 11",1.01,0.15,2
+"OLE1","WT","Day 13",1,0.02,2

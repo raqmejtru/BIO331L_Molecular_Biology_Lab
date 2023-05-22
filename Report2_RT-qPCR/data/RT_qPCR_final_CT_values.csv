@@ -1,0 +1,69 @@
+gene,CT_value,genotype,age,biological_replicate,CT_replicate
+ACTIN2,22.915,agp31 null,Day 11,3,1
+ACTIN2,22.708,agp31 null,Day 11,3,2
+ACTIN2,22.694,agp31 null,Day 11,3,3
+OLE1,32.906,agp31 null,Day 11,3,1
+OLE1,33.067,agp31 null,Day 11,3,2
+CRU3,31.775,agp31 null,Day 11,3,1
+CRU3,31.486,agp31 null,Day 11,3,2
+ACTIN2,22.339,agp31 null,Day 11,4,1
+ACTIN2,22.124,agp31 null,Day 11,4,2
+ACTIN2,21.594,agp31 null,Day 11,4,3
+CRU3,32.72,agp31 null,Day 11,4,1
+CRU3,32.07,agp31 null,Day 11,4,2
+CRU3,32.456,agp31 null,Day 11,4,3
+ACTIN2,22.334,agp31 null,Day 11,12,1
+ACTIN2,22.499,agp31 null,Day 11,12,2
+ACTIN2,23.223,agp31 null,Day 11,12,3
+OLE1,32.816,agp31 null,Day 11,12,1
+OLE1,32.862,agp31 null,Day 11,12,2
+OLE1,33.689,agp31 null,Day 11,12,3
+CRU3,29.748,agp31 null,Day 11,12,1
+CRU3,29.004,agp31 null,Day 11,12,2
+CRU3,29.021,agp31 null,Day 11,12,3
+ACTIN2,19.907,agp31 null,Day 13,5,1
+ACTIN2,19.575,agp31 null,Day 13,5,2
+OLE1,32.305,agp31 null,Day 13,5,1
+OLE1,32.773,agp31 null,Day 13,5,2
+CRU3,30.635,agp31 null,Day 13,5,1
+CRU3,30.08,agp31 null,Day 13,5,2
+CRU3,29.845,agp31 null,Day 13,5,3
+ACTIN2,22.492,agp31 null,Day 13,4,1
+ACTIN2,22.094,agp31 null,Day 13,4,2
+OLE1,35.12,agp31 null,Day 13,4,1
+OLE1,34.131,agp31 null,Day 13,4,2
+CRU3,30.86,agp31 null,Day 13,4,1
+CRU3,31.333,agp31 null,Day 13,4,2
+ACTIN2,23.223,agp31 null,Day 13,3,1
+ACTIN2,23.914,agp31 null,Day 13,3,2
+ACTIN2,23.184,agp31 null,Day 13,3,3
+CRU3,30.718,agp31 null,Day 13,3,1
+CRU3,30.909,agp31 null,Day 13,3,2
+ACTIN2,23.728,agp31 null,Day 13,6,1
+ACTIN2,23.241,agp31 null,Day 13,6,2
+ACTIN2,22.958,agp31 null,Day 13,6,3
+CRU3,30.851,agp31 null,Day 13,6,1
+CRU3,30.924,agp31 null,Day 13,6,2
+ACTIN2,22.89,WT,Day 11,3,1
+ACTIN2,22.618,WT,Day 11,3,2
+ACTIN2,22.486,WT,Day 11,3,3
+OLE1,31.811,WT,Day 11,3,1
+OLE1,31.844,WT,Day 11,3,2
+CRU3,30.557,WT,Day 11,3,1
+CRU3,29.795,WT,Day 11,3,2
+ACTIN2,22.86,WT,Day 11,4,1
+ACTIN2,22.987,WT,Day 11,4,2
+OLE1,32.752,WT,Day 11,4,1
+OLE1,32.266,WT,Day 11,4,2
+ACTIN2,23.132,WT,Day 13,4,1
+ACTIN2,23.46,WT,Day 13,4,2
+OLE1,32.516,WT,Day 13,4,1
+OLE1,32.595,WT,Day 13,4,2
+CRU3,32.883,WT,Day 13,4,1
+ACTIN2,23.343,WT,Day 13,5,1
+ACTIN2,22.99,WT,Day 13,5,2
+ACTIN2,22.907,WT,Day 13,5,3
+OLE1,32.532,WT,Day 13,5,1
+OLE1,32.278,WT,Day 13,5,2
+CRU3,32.33,WT,Day 13,5,1
+CRU3,32.219,WT,Day 13,5,2

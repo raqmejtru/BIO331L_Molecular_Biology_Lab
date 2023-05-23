@@ -4,73 +4,17 @@
 
 # **Abstract**
 
-A seed's transition from embryo to seedling is prompted by complex
-gradients of growth hormones, such as abscisic acid (ABA). In ABA
-insensitive plants, however, these developmental processes may proceed
-with unexpected downstream effects. One observed downstream effect in an
-ABA insensitive Arabinogalactan protein 31 (*agp31*) null mutant line of
-*Arabidopsis thaliana* is the upregulation of seed storage protein gene
-expression in seedlings*.* Here, we use real-time quantitative PCR
-(RT-qPCR) to compare the relative expression of two seed storage protein
-genes (i.e., Cruciferin 3 (*CRU3*) and Oleosin 1(*OLE1*)) in *agp31*
-mutant seedlings, relative to wild-type seedlings across varying ages
-(11 days, 13 days). Total RNA isolation of whole seedlings produced high
-quality yields across all but two samples. Gel electrophoresis confirmed
-minimal RNA degradation during isolations. We constructed cDNA libraries
-from our isolations and confirmed that our *CRU3* and *OLE1* primers had
-at least 90% duplication efficiency. Melting curves from RT-qPCR
-confirmed a single target amplification in all samples, for each gene.
-Our results support a significant decrease in *OLE1* expression in Day
-13 *agp31* null mutant seedlings (p \< 0.01). We cannot reject that the
-levels of *OLE1* expression differ between Day 11 *agp31* null mutants
-and wild-types, or that the levels of *CRU3* expression differ between
-Day 11 or Day 13 seedlings of either genotype (p \> 0.01). Our results
-do not support previous findings from analogous *A. thaliana*
-experiments.
+A seed's transition from embryo to seedling is prompted by complex gradients of growth hormones, such as abscisic acid (ABA). In ABA insensitive plants, however, these developmental processes may proceed with unexpected downstream effects. One observed downstream effect in an ABA insensitive Arabinogalactan protein 31 (*agp31*) null mutant line of *Arabidopsis thaliana* is the upregulation of seed storage protein gene expression in seedlings. Here, we use real-time quantitative PCR (RT-qPCR) to compare the relative expression of two seed storage protein genes (i.e., Cruciferin 3 (*CRU3*) and Oleosin 1 (*OLE1*)) in *agp31* mutant seedlings, relative to wild-type seedlings across varying ages (11 days, 13 days). Total RNA isolation of whole seedlings produced high quality yields across all but two samples. Gel electrophoresis confirmed minimal RNA degradation during isolations. We constructed cDNA libraries from our isolations and confirmed that our *CRU3* and *OLE1* primers had at least 90% duplication efficiency. Melting curves from RT-qPCR confirmed a single target amplification in all samples, for each gene. Our results support a significant decrease in *OLE1* expression in Day 13 *agp31* null mutant seedlings (p \< 0.01). We cannot reject that the levels of *OLE1* expression differ between Day 11 *agp31* null mutants and wild-types, or that the levels of *CRU3* expression differ between Day 11 or Day 13 seedlings of either genotype (p \> 0.01). Our results do not support previous findings from analogous *A. thaliana* experiments.
 
 <br>
 
 # **Introduction**
 
-In plants, germination is regulated by opposing levels of two hormones:
-abscisic acid (ABA) and gibberellic acid (GA). The transition from seed
-to seedling involves a shift from high levels of ABA and low levels of
-GA to low levels of ABA and high levels of GA (Bouyer et al. 2011). This
-shift in hormone levels cascades seedling growth pathways (e.g., root
-and stem elongation), which require an abundant supply of nutrients.
-Seed storage proteins (SSPs), such as Cruciferin 3 (CRU3) and Oleosin 1
-(OLE1), are one such source of nutrients. During late embryonic stages,
-SSPs are synthesized and stockpiled; however, after germination, SSPs
-are degraded to provide the growing plant with carbon, nitrogen, and
-sulfur.
+In plants, germination is regulated by opposing levels of two hormones: abscisic acid (ABA) and gibberellic acid (GA). The transition from seed to seedling involves a shift from high levels of ABA and low levels of GA to low levels of ABA and high levels of GA (Bouyer et al. 2011). This shift in hormone levels cascades seedling growth pathways (e.g., root and stem elongation), which require an abundant supply of nutrients. Seed storage proteins (SSPs), such as Cruciferin 3 (CRU3) and Oleosin 1 (OLE1), are one such source of nutrients. During late embryonic stages, SSPs are synthesized and stockpiled; however, after germination, SSPs are degraded to provide the growing plant with carbon, nitrogen, and sulfur.
 
-Previous studies by Liu (2007) identified uncharacteristic upregulation
-of *CRU3* gene expression in *agp31* null mutant lines of *Arabidopsis
-thaliana* seedlings. Arabinogalactan protein 31 (AGP31) is a
-proteoglycan located between the plasma membrane and cell walls of plant
-cells that provides structural integrity to cell walls through
-non-covalent scaffolding (Hijazi et al. 2014). AGP31 may also play a
-non-trivial role in plant responses to ABA signaling. In their study,
-Liu (2007) suggests that *agp31* null mutants are insensitive to ABA,
-indicating that they are inefficient at producing appropriate ABA
-responses. For example, *agp31*
+Previous studies by Liu (2007) identified uncharacteristic upregulation of *CRU3* gene expression in *agp31* null mutant lines of *Arabidopsis thaliana* seedlings. Arabinogalactan protein 31 (AGP31) is a proteoglycan located between the plasma membrane and cell walls of plant cells that provides structural integrity to cell walls through non-covalent scaffolding (Hijazi et al. 2014). AGP31 may also play a non-trivial role in plant responses to ABA signaling. In their study, Liu (2007) suggests that *agp31* null mutants are insensitive to ABA, indicating that they are inefficient at producing appropriate ABA responses. For example, *agp31* mutant seeds grown in high concentrations of ABA had higher germination rates than their wild-type counterparts, potentially suggesting that mutant seeds enhanced their germination rates by degrading large quantities of ABA. Additionally, previous studies identified that thirteen-day-old *agp31* null mutant seedlings showed peaked levels of elevated *CRU3* and *OLE1* mRNAs, compared to wild-type seedlings of the same age (Mona Mehdy, personal communication). It is possible that inappropriate ABA signaling may have facilitated the ABA degradation, therefore promoting seed to seedling maturation, which may have altered downstream upregulation of the expression of seed storage protein genes.
 
-mutant seeds grown in high concentrations of ABA had higher germination
-rates than their wild-type counterparts, potentially suggesting that
-mutant seeds enhanced their germination rates by degrading large
-quantities of ABA. Additionally, previous studies identified that
-thirteen-day-old *agp31* null mutant seedlings showed peaked levels of
-elevated *CRU3* and *OLE1* mRNAs, compared to wild-type seedlings of the
-same age (Mona Mehdy, personal communication). It is possible that
-inappropriate ABA signaling may have facilitated the ABA degradation,
-therefore promoting seed to seedling maturation, which may have altered
-downstream upregulation of the expression of seed storage protein genes.
-
-In this study, we investigate whether levels of *CRU3* and *OLE1* gene
-expression are also elevated in *agp31* null mutant seedlings.
-Specifically, we use real-time quantitative PCR to measure the relative
-expression of our genes of interest in wild type (Ler-0) and *agp31*
-null mutant *A. thaliana* seedlings of varying ages (11 days, 13 days).
+In this study, we investigate whether levels of *CRU3* and *OLE1* gene expression are also elevated in *agp31* null mutant seedlings. Specifically, we use real-time quantitative PCR to measure the relative expression of our genes of interest in wild type (Ler-0) and *agp31* null mutant *A. thaliana* seedlings of varying ages (11 days, 13 days).
 
 <br>
 
